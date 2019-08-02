@@ -37,7 +37,7 @@
         android:layout_toLeftOf="@id/toggle"
         android:padding="4dp"
         android:paddingRight="0dp"
-        android:src="@drawable/baseline_skip_previous_black_36"
+        android:src="@drawable/ic_replay"
         />
     <ImageView
         android:id="@+id/toggle"
@@ -53,6 +53,6 @@
         android:layout_height="fill_parent"
         android:layout_alignParentRight="true"
         android:padding="4dp"
-        android:src="@drawable/baseline_skip_next_black_36"
+        android:src="@drawable/ic_forward"
         />
 </RelativeLayout>
