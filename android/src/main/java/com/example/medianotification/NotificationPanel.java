@@ -48,7 +48,7 @@ public class NotificationPanel extends Activity {
 
         nBuilder = new NotificationCompat.Builder(parent, "media_notification")
                 .setOngoing(play)
-                .setSmallIcon(R.drawable.ic_khanda)
+                .setSmallIcon(R.drawable.khanda2)
                 .setVibrate(new long[]{0L})
                 .setSound(null)
                 .setDeleteIntent(pendingDismissIntent);
