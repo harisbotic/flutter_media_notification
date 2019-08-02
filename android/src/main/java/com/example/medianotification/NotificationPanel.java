@@ -67,9 +67,9 @@ public class NotificationPanel extends Activity {
         remoteView.setTextViewText(R.id.author, author);
 
         if (this.play) {
-            remoteView.setImageViewResource(R.id.toggle, R.drawable.baseline_pause_black_48);
+            remoteView.setImageViewResource(R.id.toggle, R.drawable.ic_pause);
         } else {
-            remoteView.setImageViewResource(R.id.toggle, R.drawable.baseline_play_arrow_black_48);
+            remoteView.setImageViewResource(R.id.toggle, R.drawable.ic_play);
         }
 
         setListeners(remoteView);

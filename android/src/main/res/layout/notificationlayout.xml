@@ -5,7 +5,7 @@
     android:padding="10dp">
     <TextView
         android:textSize="15dp"
-        android:textColor="#000"
+        android:textColor="#4285F4"
         android:id="@+id/title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -30,7 +30,7 @@
         android:maxLines="1"
         />
 
-    <ImageView
+    <ImageButton
         android:id="@+id/prev"
         android:layout_width="wrap_content"
         android:layout_height="fill_parent"
