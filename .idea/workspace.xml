@@ -12,10 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edafb91d-89f7-4d9b-bcdd-831bb6c99f64" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/android/src/main/res/drawable/ic_forward.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/res/drawable/ic_forward.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/res/drawable/ic_pause.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/res/drawable/ic_pause.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/res/drawable/ic_play.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/res/drawable/ic_play.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/res/drawable/ic_replay.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/res/drawable/ic_replay.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/res/layout/notificationlayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/res/layout/notificationlayout.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/android/src/main/res/layout/notificationlayout.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="1298">
+              <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -159,11 +156,11 @@
         <option value="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/android/src/main/java/com/example/medianotification/MediaNotificationPlugin.java" />
         <option value="$PROJECT_DIR$/android/src/main/java/com/example/medianotification/NotificationPanel.java" />
-        <option value="$PROJECT_DIR$/android/src/main/res/layout/notificationlayout.xml" />
         <option value="$PROJECT_DIR$/android/src/main/res/drawable/ic_forward.xml" />
         <option value="$PROJECT_DIR$/android/src/main/res/drawable/ic_replay.xml" />
         <option value="$PROJECT_DIR$/android/src/main/res/drawable/ic_pause.xml" />
         <option value="$PROJECT_DIR$/android/src/main/res/drawable/ic_play.xml" />
+        <option value="$PROJECT_DIR$/android/src/main/res/layout/notificationlayout.xml" />
       </list>
     </option>
   </component>
@@ -639,8 +636,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/android/src/main/res/layout/notificationlayout.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="1298">
+          <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
         </state>
       </provider>
     </entry>
