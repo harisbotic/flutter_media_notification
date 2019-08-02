@@ -12,7 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edafb91d-89f7-4d9b-bcdd-831bb6c99f64" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/android/src/main/res/layout/notificationlayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/res/layout/notificationlayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/res/drawable/ic_forward.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/res/drawable/ic_forward.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/res/drawable/ic_pause.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/res/drawable/ic_pause.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/res/drawable/ic_play.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/res/drawable/ic_play.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/res/drawable/ic_replay.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/res/drawable/ic_replay.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,8 +56,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/android/src/main/res/drawable/ic_replay.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/src/main/res/drawable/ic_play.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="51" selection-start-column="51" selection-end-column="51" />
@@ -63,15 +75,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/android/src/main/res/drawable/ic_play.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/android/src/main/res/layout/notificationlayout.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1298">
@@ -156,11 +159,11 @@
         <option value="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/android/src/main/java/com/example/medianotification/MediaNotificationPlugin.java" />
         <option value="$PROJECT_DIR$/android/src/main/java/com/example/medianotification/NotificationPanel.java" />
+        <option value="$PROJECT_DIR$/android/src/main/res/layout/notificationlayout.xml" />
         <option value="$PROJECT_DIR$/android/src/main/res/drawable/ic_forward.xml" />
-        <option value="$PROJECT_DIR$/android/src/main/res/drawable/ic_replay.xml" />
         <option value="$PROJECT_DIR$/android/src/main/res/drawable/ic_pause.xml" />
         <option value="$PROJECT_DIR$/android/src/main/res/drawable/ic_play.xml" />
-        <option value="$PROJECT_DIR$/android/src/main/res/layout/notificationlayout.xml" />
+        <option value="$PROJECT_DIR$/android/src/main/res/drawable/ic_replay.xml" />
       </list>
     </option>
   </component>
@@ -596,34 +599,6 @@
     <entry file="file://$PROJECT_DIR$/android/src/main/res/drawable-hdpi/baseline_pause_black_48.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/android/src/main/res/drawable/ic_replay.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="51" selection-start-column="51" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/src/main/res/drawable/ic_pause.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="51" selection-start-column="51" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/src/main/res/drawable/ic_play.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/src/main/res/drawable/ic_forward.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="51" selection-start-column="45" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/android/src/main/java/com/example/medianotification/NotificationPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3410">
@@ -638,6 +613,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1298">
           <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/res/drawable/ic_forward.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="45" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/res/drawable/ic_pause.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/res/drawable/ic_play.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/res/drawable/ic_replay.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
