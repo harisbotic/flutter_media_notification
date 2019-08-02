@@ -13,6 +13,7 @@
         android:layout_marginLeft="9dp"
         android:layout_marginTop="2dp"
         android:singleLine="true"
+        android:textStyle="bold"
         android:ellipsize="end"
         android:maxLines="1"
         />
